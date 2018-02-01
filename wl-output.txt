@@ -1,0 +1,2 @@
+Five character words (length = 5): 60974542
+Three character words (length = 3): 82812550
